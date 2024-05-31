@@ -2,7 +2,7 @@
 
 プロジェクト作成
 ```
-npm init vite@latest
+npm create vite@latest
 ```
 
 nodeインストール(プロジェクトディレクトリで)
